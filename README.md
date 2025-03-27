@@ -7,7 +7,6 @@
 ## 📱 Features
 
 - 🔐 Google Sign-In and Email/Password Authentication (via Firebase)
-- 📸 Upload and manage profile pictures
 - 📌 Save favorite heritage sites to a personal wishlist
 - ☁️ All user data securely stored in Firebase Firestore
 - 🌍 Explore and discover cultural heritage from across the globe
