@@ -1,6 +1,6 @@
 # 🏛️ Heritage Sites
 
-**Heritage Sites** is a mobile app that allows users to discover, save, and explore culturally significant heritage locations around the world. Users can sign up using Google or Email/Password, maintain a wishlist of their favorite sites, and personalize their profile — all while their data is securely stored using Firebase.
+**Heritage Sites** is a mobile app that allows users to discover, save, and explore culturally significant heritage locations around the world. Users can sign up using Google or Email/Password, maintain a wishlist of their favorite sites, and personalize their profile — all while their data is securely stored using Firebase. Download on [Play Store](https://play.google.com/store/apps/details?id=dev.lavan.heritage.sites&hl=en).
 
 ---
 
